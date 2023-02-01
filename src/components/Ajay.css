@@ -1,0 +1,61 @@
+
+.App {
+  text-align: center;
+  color:red;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+/* body{
+  background-color: rgb(246, 255, 249);
+} */
+.container{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+.id{
+  margin-top: 40px;
+  margin-bottom: 10px;
+} 
+.icon {
+  color: blue;
+}
+
+.icon:hover {
+  color: red;
+}
+.AddTask{
+  /* background-color: rgb(250, 243, 233);
+  border-color: bisque; */
+  color: blueviolet;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.card-header{
+  background-color: rgb(192, 133, 228);
+  padding-left: 15px;
+  padding-right: 15px;
+  text-transform: capitalize;
+  font-weight: bold;
+  border-radius: 10px;
+ 
+  margin-top: 20px;
+} 
+.card-head2{
+  background-color: rgb(207, 242, 242);
+  padding-left: 15px;
+  padding-right: 15px;
+  color:blueviolet;
+  text-transform: capitalize;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-top: 20px;
+} 
+.line{
+  border-style: 1px solid black;
+}
+

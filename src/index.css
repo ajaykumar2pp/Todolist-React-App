@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  width: 100%;
+  min-height: 100vh;
+  background-color: #F2F2F2;
+}
+a{
+  color: unset;
+  text-decoration: none;
+}
+input{
+  outline: none;
+  font-size: 18px;
+  width: 100%;
+}
+button{
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+
